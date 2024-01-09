@@ -1,4 +1,4 @@
-package hello.advancded.app;
+package hello.advancded;
 
 import hello.advancded.trace.logtrace.LogTrace;
 import hello.advancded.trace.logtrace.ThreadLocalLogTrace;
